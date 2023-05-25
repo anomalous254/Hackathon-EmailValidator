@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # loading imports
 # code by: Nyando | anomalous254 
 
