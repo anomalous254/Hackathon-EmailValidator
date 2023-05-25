@@ -36,8 +36,6 @@ BANNER = f"""
 """
 
 # function thatshows the user how to use the script/tool
-
-
 def show_help():
     print(f"""
 {print('-'*NUM)} 
